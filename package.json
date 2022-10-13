@@ -1,0 +1,20 @@
+{
+  "name": "03.framework",
+  "version": "1.0.0",
+  "description": "Exemplo Semana 3",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node ./src/main.js"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Lucas Antunes",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
